@@ -3,8 +3,11 @@
 <img src=https://github.com/ParallelLayer/ParallelLayer/blob/1de9362c81a0618761d48eb7dcc34a4c1dc914b2/EIHWAZ.png>
 <img src="https://github.com/ParallelLayer/ParallelLayer/blob/9c3e52109e58de9b83fe8b784df7642846e38a90/INFORMATION.png">
 </div>
+<div align="center">
 
-## M:001 // STATUS
+# M:001 // STATUS
+
+</div>
 
 `IDENTITY    : LAYER【08】REIYA`
 
