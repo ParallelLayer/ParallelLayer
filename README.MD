@@ -13,7 +13,7 @@
 
 `#DISGUISE          : ACTIVE`
 
-`STATE              : AWAKENED`
+`LOACTION           : NOCTILUCENT CRIME MUNICIPALITY`
 
 `OBSERVATION ENERGY : ██████████ 100%`
 
