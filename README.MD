@@ -9,13 +9,13 @@
 
 </div>
 
-`IDENTITY    : LAYER【08】REIYA`
+`IDENTITY           : LAYER【08】REIYA`
 
-`#DISGUISE   : ACTIVE`
+`#DISGUISE          : ACTIVE`
 
-`STATE       : AWAKENED`
+`STATE              : AWAKENED`
 
-`SIGNAL      : ██████████ 100%`
+`OBSERVATION ENERGY : ██████████ 100%`
 
 <div align="center">
 <img src="https://aurabyalexryan.vercel.app/widgets/spotify/flat/320615567?font=Exo&primary=%23DEFF13&secondary=%23DEFF13&accent=%23DEFF13&neutral=%23000000">
